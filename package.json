@@ -1,0 +1,25 @@
+{
+  "name": "react-template",
+  "version": "0.0.1",
+  "description": "typical template for my react based app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkdelirium/react-template.git"
+  },
+  "author": "darkdelirium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkdelirium/react-template/issues"
+  },
+  "homepage": "https://github.com/darkdelirium/react-template#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "es5-shim": "^4.5.9",
+    "node-sass": "^4.1.1",
+    "uglifyjs": "^2.4.10"
+  }
+}
