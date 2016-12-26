@@ -18,8 +18,14 @@
     "babel-preset-react": "^6.16.0",
     "babelify": "^7.3.0",
     "browserify": "^13.1.1",
+    "connect": "^3.5.0",
+    "connect-livereload": "^0.6.0",
     "es5-shim": "^4.5.9",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-uglify": "^2.0.0",
     "node-sass": "^4.1.1",
-    "uglifyjs": "^2.4.10"
+    "uglifyjs": "^2.4.10",
+    "watch": "^1.0.1"
   }
 }
