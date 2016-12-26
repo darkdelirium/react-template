@@ -1,0 +1,12 @@
+*.zip
+*.log
+*.pdf
+
+#Node
+node_modules/*
+
+# Sass
+.sass-cache/*
+
+#OS X index files
+.DS_Store
